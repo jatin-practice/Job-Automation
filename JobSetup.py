@@ -4,6 +4,7 @@ Created on 27-Nov-2015
 @author: jatinrout
 '''
 import commands,sys
+# This is the path need to add during running the script , this purely depends on your path where you have kept the script
 sys.path.append('/home/biadmin/Job-Automation/')
 from Automation.Config import config
 import os,re
