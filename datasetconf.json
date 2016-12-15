@@ -1,0 +1,524 @@
+{
+  "timezoneMap": {
+    "default": ""
+  },
+  "datasets": {
+    "SGSN": {
+      "timezoneMap": {
+        "default": ""
+      },
+      "datasource": "SGSN",
+      "inputFormat": "com.mobileum.format.ASNInputFormat",
+      "isSplittable": "false",
+      "schema": "asn/sgsn.xml",
+      "transformations": "json/sgsn.json",
+      "inputPaths": "input/SGSN",
+      "mccmnc": ""
+    },
+    "SDP": {
+      "timezoneMap": {
+        "default": ""
+      },
+      "datasource": "SDP",
+      "inputFormat": "com.mobileum.format.CSVInputFormat",
+      "isSplittable": "true",
+      "schema": "csv/sdp.xml",
+      "transformations": "json/sdp.json",
+      "inputPaths": "input/SDP",
+      "prepaidList": "0",
+      "postpaidList": "1"
+    },
+    "MSC": {
+      "timezoneMap": {
+        					"default": "GMT",
+                                                "ATMSS344" :  "GMT",
+                                                "CHMSS318" :  "GMT",
+                                                "CRMSS327" :  "US/Eastern",
+                                                "CRMSS328" :  "US/Eastern",
+                                                "CRMSS330" :  "US/Eastern",
+                                                "CRMSS331" :  "US/Eastern",
+                                                "CRMSS345" :  "GMT",
+                                                "DAMSS343" :  "GMT",
+                                                "HNMSS348" :  "GMT",
+                                                "IEMSS321" :  "US/Pacific",
+                                                "IEMSS322" :  "US/Pacific",
+                                                "IEMSS323" :  "US/Pacific",
+                                                "IEMSS341" :  "GMT",
+                                                "LAMSS324" :  "US/Pacific",
+                                                "LAMSS325" :  "US/Pacific",
+                                                "LAMSS326" :  "US/Pacific",
+                                                "MNMSS320" :  "GMT",
+                                                "NVMSS319" :  "GMT",
+                                                "NYMSS311" :  "US/Eastern",
+                                                "NYMSS301" :  "US/Eastern",
+                                                "NYMSS300" :  "US/Eastern",
+                                                "NYMSS302" :  "US/Eastern",
+                                                "NYMSS303" :  "US/Eastern",
+                                                "NYMSS312" :  "US/Eastern",
+                                                "NYMSS313" :  "US/Eastern",
+                                                "NYMSS314" :  "US/Eastern",
+                                                "NYMSS315" :  "GMT",
+                                                "NYMSS316" :  "GMT",
+                                                "ORMSS349" :  "GMT",
+                                                "PHMSS317" :  "GMT",
+                                                "PRMSS002" :  "US/Eastern",
+                                                "PRMSS003" :  "US/Eastern",
+                                                "SFMSS347" :  "GMT",
+                                                "SPMSS346" :  "GMT",
+                                                "VGMSS342" :  "GMT",
+                                                "CRMS327_" :  "US/Eastern",
+                                                "CRMS328_" :  "US/Eastern",
+                                                "CRMS330_" :  "US/Eastern",
+                                                "CRMS331_" :  "US/Eastern",
+                                                "NYMS311_" :  "US/Eastern",
+                                                "NYMSC301" :  "US/Eastern",
+                                                "PRMS002_" :  "US/Eastern",
+                                                "PRMS003_" :  "US/Eastern",
+                                                "default": "GMT"
+      },
+      "datasource": "MSC",
+      "inputFormat": "com.mobileum.format.ASNInputFormat",
+      "isSplittable": "false",
+      "schema": "asn/msc.xml",
+      "transformations": "",
+      "inputPaths": "input/MSC",
+      "dateformat": "yyyy-MM-ddHH:mm:ss",
+      "inlineCompression": "OFF",
+      "streaming": "OFF",
+      "streamingIterator": "com.mobileum.streaming.receiver.ASNRecordIterator",
+      "streamingSchema": "asn/msc_streaming.xml",
+      "streamingJson": "json/msc_streaming.json",
+      "streamingPort": "5555",
+      "prepaidList": "1|22|32|33|77"
+    },
+    "MSCv2": {
+      "timezoneMap": {
+        "default": "GMT",
+                                                "ATMSS344" :  "GMT",
+                                                "CHMSS318" :  "GMT",
+                                                "CRMSS327" :  "US/Eastern",
+                                                "CRMSS328" :  "US/Eastern",
+                                                "CRMSS330" :  "US/Eastern",
+                                                "CRMSS331" :  "US/Eastern",
+                                                "CRMSS345" :  "GMT",
+                                                "DAMSS343" :  "GMT",
+                                                "HNMSS348" :  "GMT",
+                                                "IEMSS321" :  "US/Pacific",
+                                                "IEMSS322" :  "US/Pacific",
+                                                "IEMSS323" :  "US/Pacific",
+                                                "IEMSS341" :  "GMT",
+                                                "LAMSS324" :  "US/Pacific",
+                                                "LAMSS325" :  "US/Pacific",
+                                                "LAMSS326" :  "US/Pacific",
+                                                "MNMSS320" :  "GMT",
+                                                "NVMSS319" :  "GMT",
+                                                "NYMSS311" :  "US/Eastern",
+                                                "NYMSS301" :  "US/Eastern",
+                                                "NYMSS300" :  "US/Eastern",
+                                                "NYMSS302" :  "US/Eastern",
+                                                "NYMSS303" :  "US/Eastern",
+                                                "NYMSS312" :  "US/Eastern",
+                                                "NYMSS313" :  "US/Eastern",
+                                                "NYMSS314" :  "US/Eastern",
+                                                "NYMSS315" :  "GMT",
+                                                "NYMSS316" :  "GMT",
+                                                "ORMSS349" :  "GMT",
+                                                "PHMSS317" :  "GMT",
+                                                "PRMSS002" :  "US/Eastern",
+                                                "PRMSS003" :  "US/Eastern",
+                                                "SFMSS347" :  "GMT",
+                                                "SPMSS346" :  "GMT",
+                                                "VGMSS342" :  "GMT",
+                                                "CRMS327_" :  "US/Eastern",
+                                                "CRMS328_" :  "US/Eastern",
+                                                "CRMS330_" :  "US/Eastern",
+                                                "CRMS331_" :  "US/Eastern",
+                                                "NYMS311_" :  "US/Eastern",
+                                                "NYMSC301" :  "US/Eastern",
+                                                "PRMS002_" :  "US/Eastern",
+                                                "PRMS003_" :  "US/Eastern",
+                                                "default": "GMT"
+      },
+      "datasource": "MSCv2",
+      "inputFormat": "com.mobileum.format.ASNInputFormat",
+      "isSplittable": "false",
+      "schema": "asn/ixc_cms40.xml",
+      "transformations": "json/ixc_cms40.json",
+      "inputPaths": "input/MSC_BKP",
+      "dateformat": "yyyy-MM-ddHH:mm:ss",
+      "inlineCompression": "OFF",
+      "streaming": "OFF",
+      "streamingIterator": "com.mobileum.streaming.receiver.ASNRecordIterator",
+      "streamingSchema": "asn/msc_streaming.xml",
+      "streamingJson": "json/msc_streaming.json",
+      "streamingPort": "5555",
+      "prepaidList": "1|22|32|33|77"
+    },
+    "GLCC": {
+      "datasource": "GLCC",
+      "inputFormat": "com.mobileum.format.CSVInputFormat",
+      "isSplittable": "true",
+      "schema": "csv/msc_glcc.xml",
+      "transformations": "json/msc_glcc.json",
+      "inputPaths": "input/GLCC"
+    },
+    "DBWRITER_LIVE": {
+      "timezoneMap": {
+        "default": ""
+      },
+      "datasource": "DBWRITER_LIVE",
+      "inputFormat": "com.mobileum.format.CSVInputFormat",
+      "isSplittable": "true",
+      "schema": "csv/dbwriter.xml",
+      "transformations": "json/dbwriter.json",
+      "inputPaths": "input/DBWRITER_LIVE",
+      "dateformat": "yyyy-MM-ddHH:mm:ss"
+    },
+    "DBWRITER_FAILED": {
+      "timezoneMap": {
+        "default": ""
+      },
+      "datasource": "DBWRITER_FAILED",
+      "inputFormat": "com.mobileum.format.CSVInputFormat",
+      "isSplittable": "true",
+      "schema": "csv/dbwriter.xml",
+      "transformations": "json/dbwriter.json",
+      "inputPaths": "input//DBWRITER_FAILED",
+      "dateformat": "yyyy-MM-ddHH:mm:ss"
+    },
+    "TELCEL": {
+      "dateformat": "yyyyMMddHHmmss",
+      "mccmnc": "31026",
+      "timezoneMap": {
+        "default": "GMT"
+      },
+      "datasource": "TELCEL",
+      "inputFormat": "com.mobileum.format.CSVInputFormat",
+      "isSplittable": "true",
+      "schema": "csv/msc_telcel.xml",
+      "transformations": "json/msc_telcel.json",
+      "inputPaths": "input/TELCEL"
+    },
+    "TATA": {
+      "dateformat": "yyyy-MM-ddHH:mm:ss",
+      "mccmnc": "31026",
+      "timezoneMap": {
+        "default": "GMT"
+      },
+      "datasource": "TATA",
+      "inputFormat": "com.mobileum.format.CSVInputFormat",
+      "isSplittable": "true",
+      "schema": "csv/msc_tata.xml",
+      "transformations": "json/msc_tata.json",
+      "inputPaths": "input/TATA"
+    },
+    "NTS_INTELIQUENT": {
+      "dateformat": "yyyyMMddHHmmss",
+      "durationformat": "MMMMMMSS",
+      "timezoneMap": {
+        "default": "GMT"
+      },
+      "datasource": "NTS_INTELIQUENT",
+      "inputFormat": "com.mobileum.format.CSVInputFormat",
+      "isSplittable": "true",
+      "schema": "csv/msc_nts_intq.xml",
+      "transformations": "json/msc_nts_intq.json",
+      "inputPaths": "input/NTS_INTELIQUENT"
+    },
+    "LTS_INTELIQUENT": {
+      "dateformat": "yyMMddHHmmss",
+      "durationformat": "MMMMSST",
+      "timezoneMap": {
+        "default": "GMT"
+      },
+      "datasource": "LTS_INTELIQUENT",
+      "inputFormat": "com.mobileum.format.ASCIIInputFormat",
+      "isSplittable": "true",
+      "schema": "ascii/msc_lts_inteliquent.xml",
+      "transformations": "json/msc_lts_inteliquent.json",
+      "inputPaths": "input/LTS_INTELIQUENT"
+    },
+    "8YY_INTELIQUENT": {
+      "dateformat": "yyMMddHHmmss",
+      "durationformat": "MMMMSST",
+      "timezoneMap": {
+        "default": "GMT"
+      },
+      "datasource": "8YY_INTELIQUENT",
+      "inputFormat": "com.mobileum.format.ASCIIInputFormat",
+      "isSplittable": "true",
+      "schema": "ascii/msc_8yy_inteliquent.xml",
+      "transformations": "json/msc_8yy_inteliquent.json",
+      "inputPaths": "input/8YY_INTELIQUENT"
+    },
+    "DT": {
+      "dateformat": "dd.MM.yy HH:mm:ss",
+      "timezoneMap": {
+        "default": "GMT"
+      },
+      "datasource": "DT",
+      "inputFormat": "com.mobileum.format.CSVInputFormat",
+      "isSplittable": "true",
+      "schema": "csv/msc_dt.xml",
+      "transformations": "json/msc_dt.json",
+      "inputPaths": "input/DT"
+    },
+    "HLR": {
+      "inputFormat": "com.mobileum.format.HLRInputFormat",
+      "isSplittable": "false",
+      "schema": "csv/hlr_bqr.xml",
+      "transformations": "json/hlr.json",
+      "inputPaths": "input/HLR",
+      "timezoneMap": {
+        "default": "+0000"
+      },
+      "datasource": "HLR",
+      "dateformat": "yyyyMMddHHmmss"
+    },
+    "TAS": {
+      "inputFormat": "com.mobileum.format.ASNInputFormat",
+      "isSplittable": "false",
+      "schema": "asn/msc_mmtel.xml",
+      "transformations": "json/msc_mmtel.json",
+      "inputPaths": "input/TAS",
+      "dateformat": "yyyy-MM-ddHH:mm:ss",
+      "datasource" : "MSC_TAS",
+      "timezoneMap": { "default" : "GMT"},
+      "prepaidList" : ""
+    },
+    "TASv2": {
+      "inputFormat": "com.mobileum.format.ASNInputFormat",
+      "isSplittable": "false",
+      "schema": "asn/ixc_mmtel.xml",
+      "transformations": "json/ixc_mmtel.json",
+      "inputPaths": "input/TAS_BKP",
+      "dateformat": "yyyy-MM-ddHH:mm:ss",
+      "datasource" : "TASv2",
+      "timezoneMap": { "default" : "GMT"},
+      "prepaidList" : ""
+    },
+    "TAP_IN": {
+      "inputFormat": "com.mobileum.format.ASNInputFormat",
+      "isSplittable": "false",
+      "schema": "asn/tap.xml",
+      "transformations": "json/tap.json",
+      "inputPaths": "input/TAP_IN",
+      "dateformat": "yyyyMMddHHmmss",
+      "timezoneMap": {
+        "default": ""
+      },
+      "mccmnc": "",
+      "datasource": "TAP"
+    },
+    "TAP_OUT": {
+      "inputFormat": "com.mobileum.format.ASNInputFormat",
+      "isSplittable": "false",
+      "schema": "asn/tap.xml",
+      "transformations": "json/tap.json",
+      "inputPaths": "input/TAP_OUT",
+      "dateformat": "yyyyMMddHHmmss",
+      "timezoneMap": {
+        "default": ""
+      },
+      "mccmnc": "",
+      "datasource": "TAP"
+    },
+    "NRTRDE_IN": {
+      "inputFormat": "com.mobileum.format.ASNInputFormat",
+      "isSplittable": "false",
+      "schema": "asn/nrtrde.xml",
+      "transformations": "json/nrtrde.json",
+      "inputPaths": "input/NRTRDE_IN",
+      "dateformat": "yyyyMMddHHmmss",
+      "timezoneMap": {
+        "default": ""
+      },
+      "mccmnc": "",
+      "datasource": "NRTRDE_IN"
+    },
+    "NRTRDE_OUT": {
+      "inputFormat": "com.mobileum.format.ASNInputFormat",
+      "isSplittable": "false",
+      "schema": "asn/nrtrde.xml",
+      "transformations": "json/nrtrde.json",
+      "inputPaths": "input/NRTRDE_OUT",
+      "dateformat": "yyyyMMddHHmmss",
+      "timezoneMap": {
+        "default": ""
+      },
+      "mccmnc": "",
+      "datasource": "NRTRDE_OUT"
+    },
+    "IPPROBE": {
+      "inputFormat": "com.mobileum.format.CSVInputFormat",
+      "isSplittable": "true",
+      "schema": "csv/ipprobe_v6r150501.xml",
+      "transformations": "json/ipprobe.json",
+      "inputPaths": "input/IPProbe",
+      "timezoneMap": {
+        "default": "UTC"
+      },
+      "dateformat": "yyyy-MM-ddHH:mm:ss",
+      "datasource": "IPPROBE"
+    },
+    "INCOMM_DOM": {
+      "inputFormat": "com.mobileum.format.CSVInputFormat",
+      "isSplittable": "true",
+      "schema": "csv/msc_incomm_dom.xml",
+      "transformations": "json/msc_incomm_dom.json",
+      "inputPaths": "input/INCOMM_DOM",
+      "timezoneMap": {
+        "default": "-0800"
+      },
+      "dateformat": "yyyy-MM-dd HH:mm:ss.SSS",
+      "datasource": "INCOMM_DOM"
+    },
+    "INCOMM_INTL": {
+      "inputFormat": "com.mobileum.format.CSVInputFormat",
+      "isSplittable": "true",
+      "schema": "csv/msc_incomm_intl.xml",
+      "transformations": "json/msc_incomm_intl.json",
+      "inputPaths": "input/INCOMM_INTL",
+      "timezoneMap": {
+        "default": "-0800"
+      },
+      "dateformat": "yyyy-MM-dd HH:mm:ss.SSS",
+      "datasource": "INCOMM_INTL"
+    },
+    "ATT": {
+      "inputFormat": "com.mobileum.format.ASCIIInputFormat",
+      "isSplittable": "true",
+      "schema": "ascii/msc_at.xml",
+      "transformations": "json/msc_at.json",
+      "inputPaths": "input/ATT",
+      "dateformat": "yyyyMMddHHmmss",
+      "datasource": "ATT",
+      "durationformat": "MMMMMMSS"
+    },
+    "GGSN":
+    {
+      "inputFormat": "com.mobileum.format.ASNInputFormat",
+      "isSplittable": "false",
+      "schema": "asn/ggsn.xml",
+      "transformations": "json/ggsn.json",
+      "inputPaths": "input/GGSN",
+      "datasource" : "GGSN"
+    },
+    "CRM":
+    {
+      "inputFormat": "com.mobileum.format.CSVInputFormat",
+      "isSplittable": "true",
+      "schema": "csv/crm.xml",
+      "transformations": "json/crm.json",
+      "inputPaths": "input/CRM",
+      "timezoneMap": { "default" : "+0100"},
+      "dateformat": "dd/MM/yy HH:mm",
+      "datasource" : "CRM"
+    },
+    "RWISDOM":
+    {
+      "inputFormat": "com.mobileum.format.UnStructuredFilesInputFormat",
+      "isSplittable": "true",
+      "schema": "unstructured/rwisdom_logs.xml",
+      "transformations": "json/rwisdom_logs.json",
+      "inputPaths": "input/RWISDOM",
+      "datasource" : "RWISDOM"
+    },
+    "RSC":
+    {
+      "inputFormat": "com.mobileum.format.CSVInputFormat",
+      "isSplittable": "true",
+      "schema": "csv/rsc.xml",
+      "transformations": "json/rsc.json",
+      "inputPaths": "input/RSC",
+      "timezoneMap": { "default" : "UTC+08:00"},
+      "datasource" : "RSC",
+      "dateformat":  "dd-MMM-yyyy hh:mm:ss"
+    },
+    "USER_LOCATION":
+    {
+      "inputFormat": "com.mobileum.format.CSVInputFormat",
+      "isSplittable": "true",
+      "schema": "csv/user_location.xml",
+      "transformations": "json/user_location.json",
+      "inputPaths": "/user/${userName}/output/user_location",
+      "datasource" : "USER_LOCATION"
+    },
+    "ARPU":
+    {
+      "inputFormat": "com.mobileum.format.CSVInputFormat",
+      "isSplittable": "true",
+      "schema": "csv/arpu_computation.xml",
+      "transformations": "json/arpu_computation.json",
+      "inputPaths": "/user/${userName}/output/arpu_computation",
+      "datasource" : "ARPU"
+    },
+    "PERSONA":
+    {
+      "inputFormat": "com.mobileum.format.CSVInputFormat",
+      "isSplittable": "true",
+      "schema": "csv/persona.xml",
+      "transformations": "json/persona.json",
+      "inputPaths": "/user/${userName}/output/PersonaClassfication/PersonaData",
+      "datasource" : "PERSONA"
+    },
+    "ROAMING_PACK":
+    {
+      "inputFormat": "com.mobileum.format.CSVInputFormat",
+      "isSplittable": "true",
+      "schema": "csv/roaming_pack.xml",
+      "transformations": "json/roaming_pack.json",
+      "inputPaths": "/user/${userName}/output/RoamingPack",
+      "datasource" : "PERSONA"
+    },
+    "IMEI_HISTORY":
+    {
+      "inputFormat": "com.mobileum.format.CSVInputFormat",
+      "isSplittable": "true",
+      "schema": "csv/imei_history.xml",
+      "transformations": "json/hlr.json",
+      "inputPaths": "input/IMEI_HISTORY",
+      "datasource" : "IMEI_HISTORY"
+    },
+    "OUT_DYNAMIC_SUBSCRIBER":
+    {
+      "inputFormat": "com.mobileum.format.CSVInputFormat",
+      "isSplittable": "true",
+      "schema": "csv/dynamic_subscriber_attributes.xml",
+      "transformations": "json/dynamic_subscriber_attributes.json",
+      "inputPaths": "/user/${userName}/output/dynamic_subscriber_attributes/OUT",
+      "datasource" : "OUT_DYNAMIC_SUBSCRIBER"
+    },
+    "IN_DYNAMIC_SUBSCRIBER":
+    {
+      "inputFormat": "com.mobileum.format.CSVInputFormat",
+      "isSplittable": "true",
+      "schema": "csv/dynamic_subscriber_attributes.xml",
+      "transformations": "json/dynamic_subscriber_attributes.json",
+      "inputPaths": "/user/${userName}/output/dynamic_subscriber_attributes/IN",
+      "datasource" : "IN_DYNAMIC_SUBSCRIBER"
+    },
+    "TAP_IN_CSV_VOICE_SMS":
+    {
+      "inputFormat": "com.mobileum.format.CSVInputFormat",
+      "isSplittable": "true",
+      "schema": "csv/du_tap_voice_sms.xml",
+      "transformations": "json/tap.json",
+      "inputPaths": "input/TAP_IN_CSV/VoiceSms",
+      "datasource" : "TAP_IN",
+      "dateformat": "yyyy-MM-dd HH:mm:ssZ"
+    },
+    "TAP_IN_CSV_GPRS":
+    {
+      "inputFormat": "com.mobileum.format.CSVInputFormat",
+      "isSplittable": "true",
+      "schema": "csv/du_tap_gprs.xml",
+      "transformations": "json/tap.json",
+      "inputPaths": "input/TAP_IN_CSV/GPRS",
+      "datasource" : "TAP_IN",
+      "dateformat": "yyyy-MM-dd HH:mm:ssZ"
+    }
+
+
+  }
+}

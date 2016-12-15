@@ -1,0 +1,790 @@
+2016-11-30 04:45:53,425 - Job-Logs - INFO - MSC files are avaialble
+2016-11-30 04:45:53,426 - Job-Logs - INFO - TAP_IN available for processing
+2016-11-30 04:45:53,426 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-11-30 04:45:53,426 - Job-Logs - INFO - TAS is avaialble for processing
+2016-11-30 04:45:53,428 - Job-Logs - INFO - Running the data model job
+2016-11-30 04:45:53,428 - Job-Logs - INFO - Running the data model job
+2016-11-30 04:45:53,428 - Job-Logs - INFO - Running the data model job
+2016-11-30 04:45:53,428 - Job-Logs - INFO - Verifying if job is running
+2016-11-30 04:45:53,428 - Job-Logs - INFO - Verifying if job is running
+2016-11-30 04:45:53,428 - Job-Logs - INFO - Verifying if job is running
+2016-11-30 04:45:53,830 - Job-Logs - INFO - You Can proceed
+2016-11-30 04:45:53,830 - Job-Logs - INFO - You Can proceed
+2016-11-30 04:45:53,830 - Job-Logs - INFO - You Can proceed
+2016-11-30 04:45:53,831 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 04:45:53,831 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 04:45:53,831 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 04:46:01,445 - Job-Logs - DEBUG - joining Thread-1
+2016-11-30 04:46:01,445 - Job-Logs - DEBUG - joining Thread-1
+2016-11-30 04:46:01,445 - Job-Logs - DEBUG - joining Thread-1
+2016-11-30 04:46:02,698 - Job-Logs - INFO - Job DataModels coordinatorid is E1004
+2016-11-30 04:46:02,698 - Job-Logs - INFO - Job DataModels coordinatorid is E1004
+2016-11-30 04:46:02,698 - Job-Logs - INFO - Job DataModels coordinatorid is E1004
+2016-11-30 04:46:03,056 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-11-30 04:46:03,056 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-11-30 04:46:03,056 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-11-30 04:51:31,047 - Job-Logs - INFO - MSC files are avaialble
+2016-11-30 04:51:31,047 - Job-Logs - INFO - TAP_IN available for processing
+2016-11-30 04:51:31,048 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-11-30 04:51:31,048 - Job-Logs - INFO - TAS is avaialble for processing
+2016-11-30 04:51:31,049 - Job-Logs - INFO - Running the data model job
+2016-11-30 04:51:31,049 - Job-Logs - INFO - Running the data model job
+2016-11-30 04:51:31,049 - Job-Logs - INFO - Running the data model job
+2016-11-30 04:51:31,049 - Job-Logs - INFO - Verifying if job is running
+2016-11-30 04:51:31,049 - Job-Logs - INFO - Verifying if job is running
+2016-11-30 04:51:31,049 - Job-Logs - INFO - Verifying if job is running
+2016-11-30 04:51:31,372 - Job-Logs - INFO - You Can proceed
+2016-11-30 04:51:31,372 - Job-Logs - INFO - You Can proceed
+2016-11-30 04:51:31,372 - Job-Logs - INFO - You Can proceed
+2016-11-30 04:51:31,373 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 04:51:31,373 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 04:51:31,373 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 04:51:38,182 - Job-Logs - DEBUG - joining Thread-1
+2016-11-30 04:51:38,182 - Job-Logs - DEBUG - joining Thread-1
+2016-11-30 04:51:38,182 - Job-Logs - DEBUG - joining Thread-1
+2016-11-30 04:51:39,224 - Job-Logs - INFO - Job DataModels coordinatorid is E1004
+2016-11-30 04:51:39,224 - Job-Logs - INFO - Job DataModels coordinatorid is E1004
+2016-11-30 04:51:39,224 - Job-Logs - INFO - Job DataModels coordinatorid is E1004
+2016-11-30 04:51:39,531 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-11-30 04:51:39,531 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-11-30 04:51:39,531 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-11-30 05:03:05,876 - Job-Logs - INFO - MSC files are avaialble
+2016-11-30 05:03:05,876 - Job-Logs - INFO - TAP_IN available for processing
+2016-11-30 05:03:05,876 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-11-30 05:03:05,876 - Job-Logs - INFO - TAS is avaialble for processing
+2016-11-30 05:03:05,878 - Job-Logs - INFO - Running the data model job
+2016-11-30 05:03:05,878 - Job-Logs - INFO - Running the data model job
+2016-11-30 05:03:05,878 - Job-Logs - INFO - Running the data model job
+2016-11-30 05:03:05,878 - Job-Logs - INFO - Verifying if job is running
+2016-11-30 05:03:05,878 - Job-Logs - INFO - Verifying if job is running
+2016-11-30 05:03:05,878 - Job-Logs - INFO - Verifying if job is running
+2016-11-30 05:03:06,235 - Job-Logs - INFO - You Can proceed
+2016-11-30 05:03:06,235 - Job-Logs - INFO - You Can proceed
+2016-11-30 05:03:06,235 - Job-Logs - INFO - You Can proceed
+2016-11-30 05:03:06,236 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 05:03:06,236 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 05:03:06,236 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 05:03:13,171 - Job-Logs - DEBUG - joining Thread-1
+2016-11-30 05:03:13,171 - Job-Logs - DEBUG - joining Thread-1
+2016-11-30 05:03:13,171 - Job-Logs - DEBUG - joining Thread-1
+2016-11-30 05:03:14,384 - Job-Logs - INFO - Job DataModels coordinatorid is E1004
+2016-11-30 05:03:14,384 - Job-Logs - INFO - Job DataModels coordinatorid is E1004
+2016-11-30 05:03:14,384 - Job-Logs - INFO - Job DataModels coordinatorid is E1004
+2016-11-30 05:03:14,706 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-11-30 05:03:14,706 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-11-30 05:03:14,706 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-11-30 09:46:39,638 - Job-Logs - INFO - MSC files are avaialble
+2016-11-30 09:46:39,638 - Job-Logs - INFO - TAP_IN available for processing
+2016-11-30 09:46:39,638 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-11-30 09:46:39,639 - Job-Logs - INFO - TAS is avaialble for processing
+2016-11-30 09:46:39,640 - Job-Logs - INFO - Running the data model job
+2016-11-30 09:46:39,640 - Job-Logs - INFO - Running the data model job
+2016-11-30 09:46:39,640 - Job-Logs - INFO - Running the data model job
+2016-11-30 09:46:39,640 - Job-Logs - INFO - Verifying if job is running
+2016-11-30 09:46:39,640 - Job-Logs - INFO - Verifying if job is running
+2016-11-30 09:46:39,640 - Job-Logs - INFO - Verifying if job is running
+2016-11-30 09:46:40,055 - Job-Logs - INFO - You Can proceed
+2016-11-30 09:46:40,055 - Job-Logs - INFO - You Can proceed
+2016-11-30 09:46:40,055 - Job-Logs - INFO - You Can proceed
+2016-11-30 09:46:40,055 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 09:46:40,055 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 09:46:40,055 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 09:46:47,118 - Job-Logs - DEBUG - joining Thread-1
+2016-11-30 09:46:47,118 - Job-Logs - DEBUG - joining Thread-1
+2016-11-30 09:46:47,118 - Job-Logs - DEBUG - joining Thread-1
+2016-11-30 09:46:48,175 - Job-Logs - INFO - Job DataModels coordinatorid is E1004
+2016-11-30 09:46:48,175 - Job-Logs - INFO - Job DataModels coordinatorid is E1004
+2016-11-30 09:46:48,175 - Job-Logs - INFO - Job DataModels coordinatorid is E1004
+2016-11-30 09:46:48,477 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-11-30 09:46:48,477 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-11-30 09:46:48,477 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-11-30 09:50:08,966 - Job-Logs - INFO - MSC files are avaialble
+2016-11-30 09:50:08,966 - Job-Logs - INFO - TAP_IN available for processing
+2016-11-30 09:50:08,967 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-11-30 09:50:08,967 - Job-Logs - INFO - TAS is avaialble for processing
+2016-11-30 09:50:08,968 - Job-Logs - INFO - Running the data model job
+2016-11-30 09:50:08,968 - Job-Logs - INFO - Running the data model job
+2016-11-30 09:50:08,968 - Job-Logs - INFO - Running the data model job
+2016-11-30 09:50:08,969 - Job-Logs - INFO - Verifying if job is running
+2016-11-30 09:50:08,969 - Job-Logs - INFO - Verifying if job is running
+2016-11-30 09:50:08,969 - Job-Logs - INFO - Verifying if job is running
+2016-11-30 09:50:09,320 - Job-Logs - INFO - You Can proceed
+2016-11-30 09:50:09,320 - Job-Logs - INFO - You Can proceed
+2016-11-30 09:50:09,320 - Job-Logs - INFO - You Can proceed
+2016-11-30 09:50:09,321 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 09:50:09,321 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 09:50:09,321 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 09:50:16,334 - Job-Logs - DEBUG - joining Thread-1
+2016-11-30 09:50:16,334 - Job-Logs - DEBUG - joining Thread-1
+2016-11-30 09:50:16,334 - Job-Logs - DEBUG - joining Thread-1
+2016-11-30 09:50:17,452 - Job-Logs - INFO - Job DataModels coordinatorid is E1004
+2016-11-30 09:50:17,452 - Job-Logs - INFO - Job DataModels coordinatorid is E1004
+2016-11-30 09:50:17,452 - Job-Logs - INFO - Job DataModels coordinatorid is E1004
+2016-11-30 09:50:17,753 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-11-30 09:50:17,753 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-11-30 09:50:17,753 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-11-30 09:55:11,773 - Job-Logs - INFO - MSC files are avaialble
+2016-11-30 09:55:11,774 - Job-Logs - INFO - TAP_IN available for processing
+2016-11-30 09:55:11,774 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-11-30 09:55:11,774 - Job-Logs - INFO - TAS is avaialble for processing
+2016-11-30 09:55:11,776 - Job-Logs - INFO - Running the data model job
+2016-11-30 09:55:11,776 - Job-Logs - INFO - Running the data model job
+2016-11-30 09:55:11,776 - Job-Logs - INFO - Running the data model job
+2016-11-30 09:55:11,776 - Job-Logs - INFO - Verifying if job is running
+2016-11-30 09:55:11,776 - Job-Logs - INFO - Verifying if job is running
+2016-11-30 09:55:11,776 - Job-Logs - INFO - Verifying if job is running
+2016-11-30 09:55:12,146 - Job-Logs - INFO - You Can proceed
+2016-11-30 09:55:12,146 - Job-Logs - INFO - You Can proceed
+2016-11-30 09:55:12,146 - Job-Logs - INFO - You Can proceed
+2016-11-30 09:55:12,146 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 09:55:12,146 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 09:55:12,146 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 09:55:19,099 - Job-Logs - DEBUG - joining Thread-1
+2016-11-30 09:55:19,099 - Job-Logs - DEBUG - joining Thread-1
+2016-11-30 09:55:19,099 - Job-Logs - DEBUG - joining Thread-1
+2016-11-30 09:55:19,883 - Job-Logs - INFO - Job DataModels coordinatorid is 0000203-161026104427275-oozie-oozi-C
+2016-11-30 09:55:19,883 - Job-Logs - INFO - Job DataModels coordinatorid is 0000203-161026104427275-oozie-oozi-C
+2016-11-30 09:55:19,883 - Job-Logs - INFO - Job DataModels coordinatorid is 0000203-161026104427275-oozie-oozi-C
+2016-11-30 10:01:52,331 - Job-Logs - INFO - MSC files are avaialble
+2016-11-30 10:01:52,332 - Job-Logs - INFO - TAP_IN available for processing
+2016-11-30 10:01:52,332 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-11-30 10:01:52,332 - Job-Logs - INFO - TAS is avaialble for processing
+2016-11-30 10:01:52,334 - Job-Logs - INFO - Running the data model job
+2016-11-30 10:01:52,334 - Job-Logs - INFO - Running the data model job
+2016-11-30 10:01:52,334 - Job-Logs - INFO - Running the data model job
+2016-11-30 10:01:52,334 - Job-Logs - INFO - Verifying if job is running
+2016-11-30 10:01:52,334 - Job-Logs - INFO - Verifying if job is running
+2016-11-30 10:01:52,334 - Job-Logs - INFO - Verifying if job is running
+2016-11-30 10:01:52,685 - Job-Logs - INFO - You Can proceed
+2016-11-30 10:01:52,685 - Job-Logs - INFO - You Can proceed
+2016-11-30 10:01:52,685 - Job-Logs - INFO - You Can proceed
+2016-11-30 10:01:52,685 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 10:01:52,685 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 10:01:52,685 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 10:01:59,938 - Job-Logs - DEBUG - joining Thread-1
+2016-11-30 10:01:59,938 - Job-Logs - DEBUG - joining Thread-1
+2016-11-30 10:01:59,938 - Job-Logs - DEBUG - joining Thread-1
+2016-11-30 10:02:01,088 - Job-Logs - INFO - Job DataModels coordinatorid is 0000205-161026104427275-oozie-oozi-C
+2016-11-30 10:02:01,088 - Job-Logs - INFO - Job DataModels coordinatorid is 0000205-161026104427275-oozie-oozi-C
+2016-11-30 10:02:01,088 - Job-Logs - INFO - Job DataModels coordinatorid is 0000205-161026104427275-oozie-oozi-C
+2016-11-30 10:24:38,010 - Job-Logs - INFO - Job Succeeded
+2016-11-30 10:24:38,010 - Job-Logs - INFO - Job Succeeded
+2016-11-30 10:24:38,010 - Job-Logs - INFO - Job Succeeded
+2016-11-30 10:24:48,469 - Job-Logs - INFO - Job successfully generated the output
+2016-11-30 10:24:48,469 - Job-Logs - INFO - Job successfully generated the output
+2016-11-30 10:24:48,469 - Job-Logs - INFO - Job successfully generated the output
+2016-11-30 10:24:48,470 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-11-30 10:24:48,470 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-11-30 10:24:48,470 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-11-30 10:25:10,759 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 10:25:10,759 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 10:25:10,759 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-11-30 10:25:17,990 - Job-Logs - ERROR - HomePolicyCOSEngine job properties not present
+2016-11-30 10:25:17,990 - Job-Logs - ERROR - HomePolicyCOSEngine job properties not present
+2016-11-30 10:25:17,990 - Job-Logs - ERROR - HomePolicyCOSEngine job properties not present
+2016-11-30 10:25:17,994 - Job-Logs - DEBUG - joining Thread-4
+2016-11-30 10:25:17,994 - Job-Logs - DEBUG - joining Thread-4
+2016-11-30 10:25:17,994 - Job-Logs - DEBUG - joining Thread-4
+2016-12-03 04:14:31,415 - Job-Logs - INFO - MSC files are avaialble
+2016-12-03 04:14:31,415 - Job-Logs - INFO - TAP_IN available for processing
+2016-12-03 04:14:31,415 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-12-03 04:14:31,415 - Job-Logs - INFO - TAS is avaialble for processing
+2016-12-03 04:14:31,417 - Job-Logs - INFO - Running the data model job
+2016-12-03 04:14:31,417 - Job-Logs - INFO - Running the data model job
+2016-12-03 04:14:31,417 - Job-Logs - INFO - Running the data model job
+2016-12-03 04:14:31,418 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 04:14:31,418 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 04:14:31,418 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 04:14:31,757 - Job-Logs - INFO - You Can proceed
+2016-12-03 04:14:31,757 - Job-Logs - INFO - You Can proceed
+2016-12-03 04:14:31,757 - Job-Logs - INFO - You Can proceed
+2016-12-03 04:14:31,758 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 04:14:31,758 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 04:14:31,758 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 04:14:39,030 - Job-Logs - DEBUG - joining Thread-1
+2016-12-03 04:14:39,030 - Job-Logs - DEBUG - joining Thread-1
+2016-12-03 04:14:39,030 - Job-Logs - DEBUG - joining Thread-1
+2016-12-03 04:14:40,003 - Job-Logs - INFO - Job DataModels coordinatorid is 0000251-161026104427275-oozie-oozi-C
+2016-12-03 04:14:40,003 - Job-Logs - INFO - Job DataModels coordinatorid is 0000251-161026104427275-oozie-oozi-C
+2016-12-03 04:14:40,003 - Job-Logs - INFO - Job DataModels coordinatorid is 0000251-161026104427275-oozie-oozi-C
+2016-12-03 04:35:09,685 - Job-Logs - INFO - Job DataModels failed 
+2016-12-03 04:35:09,685 - Job-Logs - INFO - Job DataModels failed 
+2016-12-03 04:35:09,685 - Job-Logs - INFO - Job DataModels failed 
+2016-12-03 04:35:09,687 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 04:35:09,687 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 04:35:09,687 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 04:35:26,423 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 04:35:26,423 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 04:35:26,423 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 04:35:34,015 - Job-Logs - ERROR - HomePolicyCOSEngine job properties not present
+2016-12-03 04:35:34,015 - Job-Logs - ERROR - HomePolicyCOSEngine job properties not present
+2016-12-03 04:35:34,015 - Job-Logs - ERROR - HomePolicyCOSEngine job properties not present
+2016-12-03 04:35:34,021 - Job-Logs - DEBUG - joining Thread-5
+2016-12-03 04:35:34,021 - Job-Logs - DEBUG - joining Thread-5
+2016-12-03 04:35:34,021 - Job-Logs - DEBUG - joining Thread-5
+2016-12-03 04:44:48,284 - Job-Logs - INFO - MSC files are avaialble
+2016-12-03 04:44:48,285 - Job-Logs - INFO - TAP_IN available for processing
+2016-12-03 04:44:48,285 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-12-03 04:44:48,285 - Job-Logs - INFO - TAS is avaialble for processing
+2016-12-03 04:44:48,287 - Job-Logs - INFO - Running the data model job
+2016-12-03 04:44:48,287 - Job-Logs - INFO - Running the data model job
+2016-12-03 04:44:48,287 - Job-Logs - INFO - Running the data model job
+2016-12-03 04:44:48,287 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 04:44:48,287 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 04:44:48,287 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 04:44:48,608 - Job-Logs - INFO - You Can proceed
+2016-12-03 04:44:48,608 - Job-Logs - INFO - You Can proceed
+2016-12-03 04:44:48,608 - Job-Logs - INFO - You Can proceed
+2016-12-03 04:44:48,610 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 04:44:48,610 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 04:44:48,610 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 04:45:02,668 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 04:45:02,668 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 04:45:02,668 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 04:45:09,701 - Job-Logs - ERROR - HomePolicyIPRN job properties not present
+2016-12-03 04:45:09,701 - Job-Logs - ERROR - HomePolicyIPRN job properties not present
+2016-12-03 04:45:09,701 - Job-Logs - ERROR - HomePolicyIPRN job properties not present
+2016-12-03 04:45:09,708 - Job-Logs - DEBUG - joining Thread-1
+2016-12-03 04:45:09,708 - Job-Logs - DEBUG - joining Thread-1
+2016-12-03 04:45:09,708 - Job-Logs - DEBUG - joining Thread-1
+2016-12-03 04:45:10,845 - Job-Logs - INFO - Job HomePolicyCOSEngine coordinatorid is 0000253-161026104427275-oozie-oozi-C
+2016-12-03 04:45:10,845 - Job-Logs - INFO - Job HomePolicyCOSEngine coordinatorid is 0000253-161026104427275-oozie-oozi-C
+2016-12-03 04:45:10,845 - Job-Logs - INFO - Job HomePolicyCOSEngine coordinatorid is 0000253-161026104427275-oozie-oozi-C
+2016-12-03 05:20:54,338 - Job-Logs - INFO - MSC files are avaialble
+2016-12-03 05:20:54,338 - Job-Logs - INFO - TAP_IN available for processing
+2016-12-03 05:20:54,338 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-12-03 05:20:54,338 - Job-Logs - INFO - TAS is avaialble for processing
+2016-12-03 05:20:54,340 - Job-Logs - INFO - Running the data model job
+2016-12-03 05:20:54,340 - Job-Logs - INFO - Running the data model job
+2016-12-03 05:20:54,340 - Job-Logs - INFO - Running the data model job
+2016-12-03 05:20:54,340 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 05:20:54,340 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 05:20:54,340 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 05:20:54,705 - Job-Logs - INFO - You Can proceed
+2016-12-03 05:20:54,705 - Job-Logs - INFO - You Can proceed
+2016-12-03 05:20:54,705 - Job-Logs - INFO - You Can proceed
+2016-12-03 05:20:54,706 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 05:20:54,706 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 05:20:54,706 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 05:21:08,696 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:21:08,696 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:21:08,696 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:21:15,388 - Job-Logs - DEBUG - joining Thread-3
+2016-12-03 05:21:15,388 - Job-Logs - DEBUG - joining Thread-3
+2016-12-03 05:21:15,388 - Job-Logs - DEBUG - joining Thread-3
+2016-12-03 05:24:00,954 - Job-Logs - INFO - MSC files are avaialble
+2016-12-03 05:24:00,955 - Job-Logs - INFO - TAP_IN available for processing
+2016-12-03 05:24:00,955 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-12-03 05:24:00,955 - Job-Logs - INFO - TAS is avaialble for processing
+2016-12-03 05:24:00,957 - Job-Logs - INFO - Running the data model job
+2016-12-03 05:24:00,957 - Job-Logs - INFO - Running the data model job
+2016-12-03 05:24:00,957 - Job-Logs - INFO - Running the data model job
+2016-12-03 05:24:00,957 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 05:24:00,957 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 05:24:00,957 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 05:24:01,307 - Job-Logs - INFO - You Can proceed
+2016-12-03 05:24:01,307 - Job-Logs - INFO - You Can proceed
+2016-12-03 05:24:01,307 - Job-Logs - INFO - You Can proceed
+2016-12-03 05:24:01,308 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 05:24:01,308 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 05:24:01,308 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 05:24:15,104 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:24:15,104 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:24:15,104 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:24:21,899 - Job-Logs - DEBUG - joining Thread-4
+2016-12-03 05:24:21,899 - Job-Logs - DEBUG - joining Thread-4
+2016-12-03 05:24:21,899 - Job-Logs - DEBUG - joining Thread-4
+2016-12-03 05:25:21,298 - Job-Logs - INFO - MSC files are avaialble
+2016-12-03 05:25:21,298 - Job-Logs - INFO - TAP_IN available for processing
+2016-12-03 05:25:21,298 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-12-03 05:25:21,299 - Job-Logs - INFO - TAS is avaialble for processing
+2016-12-03 05:25:21,300 - Job-Logs - INFO - Running the data model job
+2016-12-03 05:25:21,300 - Job-Logs - INFO - Running the data model job
+2016-12-03 05:25:21,300 - Job-Logs - INFO - Running the data model job
+2016-12-03 05:25:21,301 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 05:25:21,301 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 05:25:21,301 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 05:25:21,632 - Job-Logs - INFO - You Can proceed
+2016-12-03 05:25:21,632 - Job-Logs - INFO - You Can proceed
+2016-12-03 05:25:21,632 - Job-Logs - INFO - You Can proceed
+2016-12-03 05:25:21,633 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 05:25:21,633 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 05:25:21,633 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 05:25:35,961 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:25:35,961 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:25:35,961 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:25:42,865 - Job-Logs - DEBUG - joining Thread-3
+2016-12-03 05:25:42,865 - Job-Logs - DEBUG - joining Thread-3
+2016-12-03 05:25:42,865 - Job-Logs - DEBUG - joining Thread-3
+2016-12-03 05:26:32,433 - Job-Logs - INFO - MSC files are avaialble
+2016-12-03 05:26:32,433 - Job-Logs - INFO - TAP_IN available for processing
+2016-12-03 05:26:32,433 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-12-03 05:26:32,433 - Job-Logs - INFO - TAS is avaialble for processing
+2016-12-03 05:26:32,435 - Job-Logs - INFO - Running the data model job
+2016-12-03 05:26:32,435 - Job-Logs - INFO - Running the data model job
+2016-12-03 05:26:32,435 - Job-Logs - INFO - Running the data model job
+2016-12-03 05:26:32,436 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 05:26:32,436 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 05:26:32,436 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 05:26:32,790 - Job-Logs - INFO - You Can proceed
+2016-12-03 05:26:32,790 - Job-Logs - INFO - You Can proceed
+2016-12-03 05:26:32,790 - Job-Logs - INFO - You Can proceed
+2016-12-03 05:26:32,791 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 05:26:32,791 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 05:26:32,791 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 05:26:47,000 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:26:47,000 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:26:47,000 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:26:53,991 - Job-Logs - DEBUG - joining Thread-2
+2016-12-03 05:26:53,991 - Job-Logs - DEBUG - joining Thread-2
+2016-12-03 05:26:53,991 - Job-Logs - DEBUG - joining Thread-2
+2016-12-03 05:29:30,259 - Job-Logs - INFO - MSC files are avaialble
+2016-12-03 05:29:30,259 - Job-Logs - INFO - TAP_IN available for processing
+2016-12-03 05:29:30,260 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-12-03 05:29:30,260 - Job-Logs - INFO - TAS is avaialble for processing
+2016-12-03 05:29:30,262 - Job-Logs - INFO - Running the data model job
+2016-12-03 05:29:30,262 - Job-Logs - INFO - Running the data model job
+2016-12-03 05:29:30,262 - Job-Logs - INFO - Running the data model job
+2016-12-03 05:29:30,262 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 05:29:30,262 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 05:29:30,262 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 05:29:30,609 - Job-Logs - INFO - You Can proceed
+2016-12-03 05:29:30,609 - Job-Logs - INFO - You Can proceed
+2016-12-03 05:29:30,609 - Job-Logs - INFO - You Can proceed
+2016-12-03 05:29:30,609 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:29:30,609 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:29:30,609 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:29:37,383 - Job-Logs - DEBUG - joining Thread-1
+2016-12-03 05:29:37,383 - Job-Logs - DEBUG - joining Thread-1
+2016-12-03 05:29:37,383 - Job-Logs - DEBUG - joining Thread-1
+2016-12-03 05:29:37,385 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 05:29:37,385 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 05:29:37,385 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 05:31:18,331 - Job-Logs - INFO - MSC files are avaialble
+2016-12-03 05:31:18,332 - Job-Logs - INFO - TAP_IN available for processing
+2016-12-03 05:31:18,332 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-12-03 05:31:18,332 - Job-Logs - INFO - TAS is avaialble for processing
+2016-12-03 05:31:18,334 - Job-Logs - INFO - Running the data model job
+2016-12-03 05:31:18,334 - Job-Logs - INFO - Running the data model job
+2016-12-03 05:31:18,334 - Job-Logs - INFO - Running the data model job
+2016-12-03 05:31:18,335 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 05:31:18,335 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 05:31:18,335 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 05:31:18,664 - Job-Logs - INFO - You Can proceed
+2016-12-03 05:31:18,664 - Job-Logs - INFO - You Can proceed
+2016-12-03 05:31:18,664 - Job-Logs - INFO - You Can proceed
+2016-12-03 05:31:18,664 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:31:18,664 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:31:18,664 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:31:25,555 - Job-Logs - DEBUG - joining Thread-1
+2016-12-03 05:31:25,555 - Job-Logs - DEBUG - joining Thread-1
+2016-12-03 05:31:25,555 - Job-Logs - DEBUG - joining Thread-1
+2016-12-03 05:31:26,740 - Job-Logs - INFO - Job DataModels coordinatorid is 0000255-161026104427275-oozie-oozi-C
+2016-12-03 05:31:26,740 - Job-Logs - INFO - Job DataModels coordinatorid is 0000255-161026104427275-oozie-oozi-C
+2016-12-03 05:31:26,740 - Job-Logs - INFO - Job DataModels coordinatorid is 0000255-161026104427275-oozie-oozi-C
+2016-12-03 05:51:15,745 - Job-Logs - INFO - Job DataModels failed 
+2016-12-03 05:51:15,745 - Job-Logs - INFO - Job DataModels failed 
+2016-12-03 05:51:15,745 - Job-Logs - INFO - Job DataModels failed 
+2016-12-03 05:51:15,746 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 05:51:15,746 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 05:51:15,746 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 05:51:31,906 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:51:31,906 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:51:31,906 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:51:39,026 - Job-Logs - DEBUG - joining Thread-2
+2016-12-03 05:51:39,026 - Job-Logs - DEBUG - joining Thread-2
+2016-12-03 05:51:39,026 - Job-Logs - DEBUG - joining Thread-2
+2016-12-03 05:51:39,955 - Job-Logs - INFO - Job HomePolicyIPRN coordinatorid is E0405
+2016-12-03 05:51:39,955 - Job-Logs - INFO - Job HomePolicyIPRN coordinatorid is E0405
+2016-12-03 05:51:39,955 - Job-Logs - INFO - Job HomePolicyIPRN coordinatorid is E0405
+2016-12-03 05:51:39,957 - Job-Logs - INFO - Job HomePolicyIPRN coordinatorid is E0405
+2016-12-03 05:51:39,957 - Job-Logs - INFO - Job HomePolicyIPRN coordinatorid is E0405
+2016-12-03 05:51:39,957 - Job-Logs - INFO - Job HomePolicyIPRN coordinatorid is E0405
+2016-12-03 05:51:42,330 - Job-Logs - INFO - Job MachineIdentificationIntermediateFeaturePreparationJob coordinatorid is 0000257-161026104427275-oozie-oozi-C
+2016-12-03 05:51:42,330 - Job-Logs - INFO - Job MachineIdentificationIntermediateFeaturePreparationJob coordinatorid is 0000257-161026104427275-oozie-oozi-C
+2016-12-03 05:51:42,330 - Job-Logs - INFO - Job MachineIdentificationIntermediateFeaturePreparationJob coordinatorid is 0000257-161026104427275-oozie-oozi-C
+2016-12-03 05:51:42,336 - Job-Logs - INFO - Job HomePolicyCOSEngine coordinatorid is 0000258-161026104427275-oozie-oozi-C
+2016-12-03 05:51:42,336 - Job-Logs - INFO - Job HomePolicyCOSEngine coordinatorid is 0000258-161026104427275-oozie-oozi-C
+2016-12-03 05:51:42,336 - Job-Logs - INFO - Job HomePolicyCOSEngine coordinatorid is 0000258-161026104427275-oozie-oozi-C
+2016-12-03 05:51:42,510 - Job-Logs - INFO - Job BaseIRSFCube coordinatorid is 0000260-161026104427275-oozie-oozi-C
+2016-12-03 05:51:42,510 - Job-Logs - INFO - Job BaseIRSFCube coordinatorid is 0000260-161026104427275-oozie-oozi-C
+2016-12-03 05:51:42,511 - Job-Logs - INFO - Job DnisDetectionIntermediateFeaturePreparation coordinatorid is 0000259-161026104427275-oozie-oozi-C
+2016-12-03 05:51:42,511 - Job-Logs - INFO - Job DnisDetectionIntermediateFeaturePreparation coordinatorid is 0000259-161026104427275-oozie-oozi-C
+2016-12-03 05:51:42,510 - Job-Logs - INFO - Job BaseIRSFCube coordinatorid is 0000260-161026104427275-oozie-oozi-C
+2016-12-03 05:51:42,511 - Job-Logs - INFO - Job DnisDetectionIntermediateFeaturePreparation coordinatorid is 0000259-161026104427275-oozie-oozi-C
+2016-12-03 05:51:42,517 - Job-Logs - INFO - Job BaseIRSFCube coordinatorid is 0000261-161026104427275-oozie-oozi-C
+2016-12-03 05:51:42,517 - Job-Logs - INFO - Job BaseIRSFCube coordinatorid is 0000261-161026104427275-oozie-oozi-C
+2016-12-03 05:51:42,517 - Job-Logs - INFO - Job BaseIRSFCube coordinatorid is 0000261-161026104427275-oozie-oozi-C
+2016-12-03 05:56:15,150 - Job-Logs - INFO - Job BaseIRSFCube failed 
+2016-12-03 05:56:15,150 - Job-Logs - INFO - Job BaseIRSFCube failed 
+2016-12-03 05:56:15,150 - Job-Logs - INFO - Job BaseIRSFCube failed 
+2016-12-03 05:56:15,151 - Job-Logs - INFO - Job BaseIRSFCube failed 
+2016-12-03 05:56:15,151 - Job-Logs - INFO - Job BaseIRSFCube failed 
+2016-12-03 05:56:15,151 - Job-Logs - INFO - Job BaseIRSFCube failed 
+2016-12-03 05:56:16,223 - Job-Logs - INFO - Job HomePolicyCOSEngine failed 
+2016-12-03 05:56:16,223 - Job-Logs - INFO - Job HomePolicyCOSEngine failed 
+2016-12-03 05:56:16,223 - Job-Logs - INFO - Job HomePolicyCOSEngine failed 
+2016-12-03 05:56:16,224 - Job-Logs - DEBUG - joining Thread-8
+2016-12-03 05:56:16,224 - Job-Logs - DEBUG - joining Thread-8
+2016-12-03 05:56:16,224 - Job-Logs - DEBUG - joining Thread-8
+2016-12-03 05:56:17,396 - Job-Logs - INFO - Job MachineIdentificationIntermediateFeaturePreparationJob failed 
+2016-12-03 05:56:17,396 - Job-Logs - INFO - Job MachineIdentificationIntermediateFeaturePreparationJob failed 
+2016-12-03 05:56:17,396 - Job-Logs - INFO - Job MachineIdentificationIntermediateFeaturePreparationJob failed 
+2016-12-03 05:56:17,397 - Job-Logs - DEBUG - joining Thread-6
+2016-12-03 05:56:17,397 - Job-Logs - DEBUG - joining Thread-6
+2016-12-03 05:56:17,397 - Job-Logs - DEBUG - joining Thread-6
+2016-12-03 05:56:19,243 - Job-Logs - INFO - Job DnisDetectionIntermediateFeaturePreparation failed 
+2016-12-03 05:56:19,243 - Job-Logs - INFO - Job DnisDetectionIntermediateFeaturePreparation failed 
+2016-12-03 05:56:19,243 - Job-Logs - INFO - Job DnisDetectionIntermediateFeaturePreparation failed 
+2016-12-03 05:56:19,244 - Job-Logs - DEBUG - joining Thread-7
+2016-12-03 05:56:19,244 - Job-Logs - DEBUG - joining Thread-7
+2016-12-03 05:56:19,244 - Job-Logs - DEBUG - joining Thread-7
+2016-12-03 05:56:19,244 - Job-Logs - DEBUG - joining Thread-4
+2016-12-03 05:56:19,244 - Job-Logs - DEBUG - joining Thread-4
+2016-12-03 05:56:19,244 - Job-Logs - DEBUG - joining Thread-4
+2016-12-03 05:56:19,245 - Job-Logs - DEBUG - joining Thread-3
+2016-12-03 05:56:19,245 - Job-Logs - DEBUG - joining Thread-3
+2016-12-03 05:56:19,245 - Job-Logs - DEBUG - joining Thread-3
+2016-12-03 05:56:19,245 - Job-Logs - DEBUG - joining Thread-5
+2016-12-03 05:56:19,245 - Job-Logs - DEBUG - joining Thread-5
+2016-12-03 05:56:19,245 - Job-Logs - DEBUG - joining Thread-5
+2016-12-03 05:56:19,245 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 05:56:19,245 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 05:56:19,245 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 05:56:32,393 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:56:32,393 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:56:32,393 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 05:56:38,748 - Job-Logs - DEBUG - joining Thread-9
+2016-12-03 05:56:38,748 - Job-Logs - DEBUG - joining Thread-9
+2016-12-03 05:56:38,748 - Job-Logs - DEBUG - joining Thread-9
+2016-12-03 05:56:54,049 - Job-Logs - INFO - Job MachineIdentificationFinalFeaturePreparationJob coordinatorid is IO_ERROR
+2016-12-03 05:56:54,049 - Job-Logs - INFO - Job MachineIdentificationFinalFeaturePreparationJob coordinatorid is IO_ERROR
+2016-12-03 05:56:54,049 - Job-Logs - INFO - Job MachineIdentificationFinalFeaturePreparationJob coordinatorid is IO_ERROR
+2016-12-03 05:56:54,052 - Job-Logs - INFO - Job DataModels coordinatorid is IO_ERROR
+2016-12-03 05:56:54,053 - Job-Logs - INFO - Job FinalIRSFCube coordinatorid is IO_ERROR
+2016-12-03 05:56:54,052 - Job-Logs - INFO - Job DataModels coordinatorid is IO_ERROR
+2016-12-03 05:56:54,053 - Job-Logs - INFO - Job FinalIRSFCube coordinatorid is IO_ERROR
+2016-12-03 05:56:54,052 - Job-Logs - INFO - Job DataModels coordinatorid is IO_ERROR
+2016-12-03 05:56:54,055 - Job-Logs - INFO - Job DnisDetectionFinalFeaturePreparation coordinatorid is IO_ERROR
+2016-12-03 05:56:54,055 - Job-Logs - INFO - Job DnisDetectionFinalFeaturePreparation coordinatorid is IO_ERROR
+2016-12-03 05:56:54,053 - Job-Logs - INFO - Job FinalIRSFCube coordinatorid is IO_ERROR
+2016-12-03 05:56:54,055 - Job-Logs - INFO - Job DnisDetectionFinalFeaturePreparation coordinatorid is IO_ERROR
+2016-12-03 05:57:09,368 - Job-Logs - INFO - Job DataModels failed 
+2016-12-03 05:57:09,368 - Job-Logs - INFO - Job DataModels failed 
+2016-12-03 05:57:09,369 - Job-Logs - INFO - Job FinalIRSFCube failed 
+2016-12-03 05:57:09,368 - Job-Logs - INFO - Job DataModels failed 
+2016-12-03 05:57:09,369 - Job-Logs - INFO - Job FinalIRSFCube failed 
+2016-12-03 05:57:09,369 - Job-Logs - INFO - Job FinalIRSFCube failed 
+2016-12-03 05:57:09,371 - Job-Logs - DEBUG - joining Thread-11
+2016-12-03 05:57:09,371 - Job-Logs - DEBUG - joining Thread-11
+2016-12-03 05:57:09,371 - Job-Logs - DEBUG - joining Thread-11
+2016-12-03 05:57:09,372 - Job-Logs - DEBUG - joining Thread-12
+2016-12-03 05:57:09,372 - Job-Logs - DEBUG - joining Thread-12
+2016-12-03 05:57:09,372 - Job-Logs - DEBUG - joining Thread-12
+2016-12-03 05:57:09,389 - Job-Logs - INFO - Job MachineIdentificationFinalFeaturePreparationJob failed 
+2016-12-03 05:57:09,389 - Job-Logs - INFO - Job MachineIdentificationFinalFeaturePreparationJob failed 
+2016-12-03 05:57:09,389 - Job-Logs - INFO - Job MachineIdentificationFinalFeaturePreparationJob failed 
+2016-12-03 05:57:09,390 - Job-Logs - DEBUG - joining Thread-10
+2016-12-03 05:57:09,390 - Job-Logs - DEBUG - joining Thread-10
+2016-12-03 05:57:09,390 - Job-Logs - DEBUG - joining Thread-10
+2016-12-03 05:57:09,398 - Job-Logs - INFO - Job DnisDetectionFinalFeaturePreparation failed 
+2016-12-03 05:57:09,398 - Job-Logs - INFO - Job DnisDetectionFinalFeaturePreparation failed 
+2016-12-03 05:57:09,398 - Job-Logs - INFO - Job DnisDetectionFinalFeaturePreparation failed 
+2016-12-03 06:11:45,876 - Job-Logs - INFO - MSC files are avaialble
+2016-12-03 06:11:45,877 - Job-Logs - INFO - TAP_IN available for processing
+2016-12-03 06:11:45,877 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-12-03 06:11:45,877 - Job-Logs - INFO - TAS is avaialble for processing
+2016-12-03 06:11:45,881 - Job-Logs - INFO - Running the data model job
+2016-12-03 06:11:45,881 - Job-Logs - INFO - Running the data model job
+2016-12-03 06:11:45,881 - Job-Logs - INFO - Running the data model job
+2016-12-03 06:11:45,881 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 06:11:45,881 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 06:11:45,881 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 06:11:46,211 - Job-Logs - INFO - You Can proceed
+2016-12-03 06:11:46,211 - Job-Logs - INFO - You Can proceed
+2016-12-03 06:11:46,211 - Job-Logs - INFO - You Can proceed
+2016-12-03 06:11:46,212 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 06:11:46,212 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 06:11:46,212 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 06:12:00,335 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 06:12:00,335 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 06:12:00,335 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 06:12:07,096 - Job-Logs - DEBUG - joining Thread-2
+2016-12-03 06:12:07,096 - Job-Logs - DEBUG - joining Thread-2
+2016-12-03 06:12:07,096 - Job-Logs - DEBUG - joining Thread-2
+2016-12-03 06:13:23,901 - Job-Logs - INFO - MSC files are avaialble
+2016-12-03 06:13:23,902 - Job-Logs - INFO - TAP_IN available for processing
+2016-12-03 06:13:23,902 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-12-03 06:13:23,902 - Job-Logs - INFO - TAS is avaialble for processing
+2016-12-03 06:13:23,904 - Job-Logs - INFO - Running the data model job
+2016-12-03 06:13:23,904 - Job-Logs - INFO - Running the data model job
+2016-12-03 06:13:23,904 - Job-Logs - INFO - Running the data model job
+2016-12-03 06:13:23,904 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 06:13:23,904 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 06:13:23,904 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 06:13:24,281 - Job-Logs - INFO - You Can proceed
+2016-12-03 06:13:24,281 - Job-Logs - INFO - You Can proceed
+2016-12-03 06:13:24,281 - Job-Logs - INFO - You Can proceed
+2016-12-03 06:13:24,282 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 06:13:24,282 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 06:13:24,282 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 06:13:37,685 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 06:13:37,685 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 06:13:37,685 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 06:13:44,087 - Job-Logs - DEBUG - joining Thread-2
+2016-12-03 06:13:44,087 - Job-Logs - DEBUG - joining Thread-2
+2016-12-03 06:13:44,087 - Job-Logs - DEBUG - joining Thread-2
+2016-12-03 06:36:21,592 - Job-Logs - INFO - MSC files are avaialble
+2016-12-03 06:36:21,592 - Job-Logs - INFO - TAP_IN available for processing
+2016-12-03 06:36:21,592 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-12-03 06:36:21,592 - Job-Logs - INFO - TAS is avaialble for processing
+2016-12-03 06:36:21,594 - Job-Logs - INFO - Running the data model job
+2016-12-03 06:36:21,594 - Job-Logs - INFO - Running the data model job
+2016-12-03 06:36:21,594 - Job-Logs - INFO - Running the data model job
+2016-12-03 06:36:21,594 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 06:36:21,594 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 06:36:21,594 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 06:36:21,932 - Job-Logs - INFO - You Can proceed
+2016-12-03 06:36:21,932 - Job-Logs - INFO - You Can proceed
+2016-12-03 06:36:21,932 - Job-Logs - INFO - You Can proceed
+2016-12-03 06:36:21,932 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 06:36:21,932 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 06:36:21,932 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 06:36:35,663 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 06:36:35,663 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 06:36:35,663 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 06:36:42,210 - Job-Logs - DEBUG - joining Thread-2
+2016-12-03 06:36:42,210 - Job-Logs - DEBUG - joining Thread-2
+2016-12-03 06:36:42,210 - Job-Logs - DEBUG - joining Thread-2
+2016-12-03 07:07:05,917 - Job-Logs - INFO - MSC files are avaialble
+2016-12-03 07:07:05,917 - Job-Logs - INFO - TAP_IN available for processing
+2016-12-03 07:07:05,917 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-12-03 07:07:05,918 - Job-Logs - INFO - TAS is avaialble for processing
+2016-12-03 07:07:05,919 - Job-Logs - INFO - Running the data model job
+2016-12-03 07:07:05,919 - Job-Logs - INFO - Running the data model job
+2016-12-03 07:07:05,919 - Job-Logs - INFO - Running the data model job
+2016-12-03 07:07:05,920 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 07:07:05,920 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 07:07:05,920 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 07:07:06,289 - Job-Logs - INFO - You Can proceed
+2016-12-03 07:07:06,289 - Job-Logs - INFO - You Can proceed
+2016-12-03 07:07:06,289 - Job-Logs - INFO - You Can proceed
+2016-12-03 07:07:06,290 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:07:06,290 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:07:06,290 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:07:19,448 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 07:07:19,448 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 07:07:19,448 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 07:07:26,191 - Job-Logs - DEBUG - joining Thread-4
+2016-12-03 07:07:26,191 - Job-Logs - DEBUG - joining Thread-4
+2016-12-03 07:07:26,191 - Job-Logs - DEBUG - joining Thread-4
+2016-12-03 07:07:26,195 - Job-Logs - DEBUG - joining Thread-6
+2016-12-03 07:07:26,195 - Job-Logs - DEBUG - joining Thread-6
+2016-12-03 07:07:26,195 - Job-Logs - DEBUG - joining Thread-6
+2016-12-03 07:07:26,197 - Job-Logs - DEBUG - joining Thread-5
+2016-12-03 07:07:26,197 - Job-Logs - DEBUG - joining Thread-5
+2016-12-03 07:07:26,197 - Job-Logs - DEBUG - joining Thread-5
+2016-12-03 07:07:26,198 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:07:26,198 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:07:26,198 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:08:49,172 - Job-Logs - INFO - MSC files are avaialble
+2016-12-03 07:08:49,173 - Job-Logs - INFO - TAP_IN available for processing
+2016-12-03 07:08:49,173 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-12-03 07:08:49,173 - Job-Logs - INFO - TAS is avaialble for processing
+2016-12-03 07:08:49,175 - Job-Logs - INFO - Running the data model job
+2016-12-03 07:08:49,175 - Job-Logs - INFO - Running the data model job
+2016-12-03 07:08:49,175 - Job-Logs - INFO - Running the data model job
+2016-12-03 07:08:49,175 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 07:08:49,175 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 07:08:49,175 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 07:08:49,523 - Job-Logs - INFO - You Can proceed
+2016-12-03 07:08:49,523 - Job-Logs - INFO - You Can proceed
+2016-12-03 07:08:49,523 - Job-Logs - INFO - You Can proceed
+2016-12-03 07:08:49,524 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:08:49,524 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:08:49,524 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:09:02,952 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 07:09:02,952 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 07:09:02,952 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 07:09:09,561 - Job-Logs - DEBUG - joining Thread-6
+2016-12-03 07:09:09,561 - Job-Logs - DEBUG - joining Thread-6
+2016-12-03 07:09:09,561 - Job-Logs - DEBUG - joining Thread-6
+2016-12-03 07:09:09,563 - Job-Logs - DEBUG - joining Thread-5
+2016-12-03 07:09:09,563 - Job-Logs - DEBUG - joining Thread-5
+2016-12-03 07:09:09,563 - Job-Logs - DEBUG - joining Thread-5
+2016-12-03 07:09:09,564 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:09:09,564 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:09:09,564 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:10:22,528 - Job-Logs - INFO - MSC files are avaialble
+2016-12-03 07:10:22,529 - Job-Logs - INFO - TAP_IN available for processing
+2016-12-03 07:10:22,529 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-12-03 07:10:22,529 - Job-Logs - INFO - TAS is avaialble for processing
+2016-12-03 07:10:22,532 - Job-Logs - INFO - Running the data model job
+2016-12-03 07:10:22,532 - Job-Logs - INFO - Running the data model job
+2016-12-03 07:10:22,532 - Job-Logs - INFO - Running the data model job
+2016-12-03 07:10:22,532 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 07:10:22,532 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 07:10:22,532 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 07:10:22,861 - Job-Logs - INFO - You Can proceed
+2016-12-03 07:10:22,861 - Job-Logs - INFO - You Can proceed
+2016-12-03 07:10:22,861 - Job-Logs - INFO - You Can proceed
+2016-12-03 07:10:22,862 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:10:22,862 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:10:22,862 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:10:36,528 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 07:10:36,528 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 07:10:36,528 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 07:10:43,211 - Job-Logs - DEBUG - joining Thread-5
+2016-12-03 07:10:43,211 - Job-Logs - DEBUG - joining Thread-5
+2016-12-03 07:10:43,211 - Job-Logs - DEBUG - joining Thread-5
+2016-12-03 07:10:43,241 - Job-Logs - DEBUG - joining Thread-6
+2016-12-03 07:10:43,241 - Job-Logs - DEBUG - joining Thread-6
+2016-12-03 07:10:43,241 - Job-Logs - DEBUG - joining Thread-6
+2016-12-03 07:10:43,242 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:10:43,242 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:10:43,242 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:11:42,702 - Job-Logs - INFO - MSC files are avaialble
+2016-12-03 07:11:42,703 - Job-Logs - INFO - TAP_IN available for processing
+2016-12-03 07:11:42,703 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-12-03 07:11:42,703 - Job-Logs - INFO - TAS is avaialble for processing
+2016-12-03 07:11:42,705 - Job-Logs - INFO - Running the data model job
+2016-12-03 07:11:42,705 - Job-Logs - INFO - Running the data model job
+2016-12-03 07:11:42,705 - Job-Logs - INFO - Running the data model job
+2016-12-03 07:11:42,706 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 07:11:42,706 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 07:11:42,706 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 07:11:43,042 - Job-Logs - INFO - You Can proceed
+2016-12-03 07:11:43,042 - Job-Logs - INFO - You Can proceed
+2016-12-03 07:11:43,042 - Job-Logs - INFO - You Can proceed
+2016-12-03 07:11:43,043 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:11:43,043 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:11:43,043 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:11:56,436 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 07:11:56,436 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 07:11:56,436 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 07:12:03,229 - Job-Logs - DEBUG - joining Thread-6
+2016-12-03 07:12:03,229 - Job-Logs - DEBUG - joining Thread-6
+2016-12-03 07:12:03,229 - Job-Logs - DEBUG - joining Thread-6
+2016-12-03 07:12:03,232 - Job-Logs - DEBUG - joining Thread-5
+2016-12-03 07:12:03,232 - Job-Logs - DEBUG - joining Thread-5
+2016-12-03 07:12:03,232 - Job-Logs - DEBUG - joining Thread-5
+2016-12-03 07:12:03,232 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:12:03,232 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:12:03,232 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:13:29,362 - Job-Logs - INFO - MSC files are avaialble
+2016-12-03 07:13:29,363 - Job-Logs - INFO - TAP_IN available for processing
+2016-12-03 07:13:29,363 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-12-03 07:13:29,363 - Job-Logs - INFO - TAS is avaialble for processing
+2016-12-03 07:13:29,365 - Job-Logs - INFO - Running the data model job
+2016-12-03 07:13:29,365 - Job-Logs - INFO - Running the data model job
+2016-12-03 07:13:29,365 - Job-Logs - INFO - Running the data model job
+2016-12-03 07:13:29,366 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 07:13:29,366 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 07:13:29,366 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 07:13:29,723 - Job-Logs - INFO - You Can proceed
+2016-12-03 07:13:29,723 - Job-Logs - INFO - You Can proceed
+2016-12-03 07:13:29,723 - Job-Logs - INFO - You Can proceed
+2016-12-03 07:13:29,724 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:13:29,724 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:13:29,724 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 07:13:43,017 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 07:13:43,017 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 07:13:43,017 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 07:13:49,473 - Job-Logs - DEBUG - joining Thread-1
+2016-12-03 07:13:49,473 - Job-Logs - DEBUG - joining Thread-1
+2016-12-03 07:13:49,473 - Job-Logs - DEBUG - joining Thread-1
+2016-12-03 07:13:50,523 - Job-Logs - INFO - Job BaseIRSFCube coordinatorid is 0000003-161203060320735-oozie-oozi-C
+2016-12-03 07:13:50,523 - Job-Logs - INFO - Job BaseIRSFCube coordinatorid is 0000003-161203060320735-oozie-oozi-C
+2016-12-03 07:13:50,523 - Job-Logs - INFO - Job BaseIRSFCube coordinatorid is 0000003-161203060320735-oozie-oozi-C
+2016-12-03 07:13:50,525 - Job-Logs - INFO - Job BaseIRSFCube coordinatorid is 0000002-161203060320735-oozie-oozi-C
+2016-12-03 07:13:50,525 - Job-Logs - INFO - Job BaseIRSFCube coordinatorid is 0000002-161203060320735-oozie-oozi-C
+2016-12-03 07:13:50,525 - Job-Logs - INFO - Job BaseIRSFCube coordinatorid is 0000002-161203060320735-oozie-oozi-C
+2016-12-03 07:13:50,605 - Job-Logs - INFO - Job HomePolicyIPRN_DLD coordinatorid is 0000004-161203060320735-oozie-oozi-C
+2016-12-03 07:13:50,605 - Job-Logs - INFO - Job HomePolicyIPRN_DLD coordinatorid is 0000004-161203060320735-oozie-oozi-C
+2016-12-03 07:13:50,605 - Job-Logs - INFO - Job HomePolicyIPRN_DLD coordinatorid is 0000004-161203060320735-oozie-oozi-C
+2016-12-03 07:13:50,835 - Job-Logs - INFO - Job DnisDetectionIntermediateFeaturePreparation coordinatorid is 0000005-161203060320735-oozie-oozi-C
+2016-12-03 07:13:50,835 - Job-Logs - INFO - Job DnisDetectionIntermediateFeaturePreparation coordinatorid is 0000005-161203060320735-oozie-oozi-C
+2016-12-03 07:13:50,835 - Job-Logs - INFO - Job DnisDetectionIntermediateFeaturePreparation coordinatorid is 0000005-161203060320735-oozie-oozi-C
+2016-12-03 07:13:50,855 - Job-Logs - INFO - Job MachineIdentificationIntermediateFeaturePreparationJob coordinatorid is 0000006-161203060320735-oozie-oozi-C
+2016-12-03 07:13:50,855 - Job-Logs - INFO - Job MachineIdentificationIntermediateFeaturePreparationJob coordinatorid is 0000006-161203060320735-oozie-oozi-C
+2016-12-03 07:13:50,855 - Job-Logs - INFO - Job MachineIdentificationIntermediateFeaturePreparationJob coordinatorid is 0000006-161203060320735-oozie-oozi-C
+2016-12-03 07:13:50,882 - Job-Logs - INFO - Job HomePolicyIPRN_ILD coordinatorid is 0000007-161203060320735-oozie-oozi-C
+2016-12-03 07:13:50,882 - Job-Logs - INFO - Job HomePolicyIPRN_ILD coordinatorid is 0000007-161203060320735-oozie-oozi-C
+2016-12-03 07:13:50,882 - Job-Logs - INFO - Job HomePolicyIPRN_ILD coordinatorid is 0000007-161203060320735-oozie-oozi-C
+2016-12-03 07:13:51,078 - Job-Logs - INFO - Job BaseIRSFCube failed 
+2016-12-03 07:13:51,078 - Job-Logs - INFO - Job BaseIRSFCube failed 
+2016-12-03 07:13:51,078 - Job-Logs - INFO - Job BaseIRSFCube failed 
+2016-12-03 07:16:24,609 - Job-Logs - INFO - MSC files are avaialble
+2016-12-03 07:16:24,609 - Job-Logs - INFO - TAP_IN available for processing
+2016-12-03 07:16:24,610 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-12-03 07:16:24,610 - Job-Logs - INFO - TAS is avaialble for processing
+2016-12-03 07:16:24,612 - Job-Logs - INFO - Running the data model job
+2016-12-03 07:16:24,612 - Job-Logs - INFO - Running the data model job
+2016-12-03 07:16:24,612 - Job-Logs - INFO - Running the data model job
+2016-12-03 07:16:24,613 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 07:16:24,613 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 07:16:24,613 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 07:16:24,949 - Job-Logs - INFO - You Can proceed
+2016-12-03 07:16:24,949 - Job-Logs - INFO - You Can proceed
+2016-12-03 07:16:24,949 - Job-Logs - INFO - You Can proceed
+2016-12-03 07:16:24,950 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 07:16:24,950 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 07:16:24,950 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 07:16:31,824 - Job-Logs - DEBUG - joining Thread-1
+2016-12-03 07:16:31,824 - Job-Logs - DEBUG - joining Thread-1
+2016-12-03 07:16:31,824 - Job-Logs - DEBUG - joining Thread-1
+2016-12-03 07:16:32,577 - Job-Logs - INFO - Job DataModel coordinatorid is 0000014-161203060320735-oozie-oozi-C
+2016-12-03 07:16:32,577 - Job-Logs - INFO - Job DataModel coordinatorid is 0000014-161203060320735-oozie-oozi-C
+2016-12-03 07:16:32,577 - Job-Logs - INFO - Job DataModel coordinatorid is 0000014-161203060320735-oozie-oozi-C
+2016-12-03 17:43:14,318 - Job-Logs - INFO - MSC files are avaialble
+2016-12-03 17:43:14,318 - Job-Logs - INFO - TAP_IN available for processing
+2016-12-03 17:43:14,318 - Job-Logs - INFO - DBwriter is avaialble for processing
+2016-12-03 17:43:14,319 - Job-Logs - INFO - TAS is avaialble for processing
+2016-12-03 17:43:14,320 - Job-Logs - INFO - Running the data model job
+2016-12-03 17:43:14,320 - Job-Logs - INFO - Running the data model job
+2016-12-03 17:43:14,320 - Job-Logs - INFO - Running the data model job
+2016-12-03 17:43:14,320 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 17:43:14,320 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 17:43:14,320 - Job-Logs - INFO - Verifying if job is running
+2016-12-03 17:43:14,655 - Job-Logs - INFO - You Can proceed
+2016-12-03 17:43:14,655 - Job-Logs - INFO - You Can proceed
+2016-12-03 17:43:14,655 - Job-Logs - INFO - You Can proceed
+2016-12-03 17:43:14,656 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 17:43:14,656 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 17:43:14,656 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 17:43:21,619 - Job-Logs - DEBUG - joining Thread-1
+2016-12-03 17:43:21,619 - Job-Logs - DEBUG - joining Thread-1
+2016-12-03 17:43:21,619 - Job-Logs - DEBUG - joining Thread-1
+2016-12-03 17:43:22,356 - Job-Logs - INFO - Job DataModelSparkJob coordinatorid is 0000016-161203060320735-oozie-oozi-C
+2016-12-03 17:43:22,356 - Job-Logs - INFO - Job DataModelSparkJob coordinatorid is 0000016-161203060320735-oozie-oozi-C
+2016-12-03 17:43:22,356 - Job-Logs - INFO - Job DataModelSparkJob coordinatorid is 0000016-161203060320735-oozie-oozi-C
+2016-12-03 17:45:04,997 - Job-Logs - INFO - Job DataModelSparkJob failed 
+2016-12-03 17:45:04,997 - Job-Logs - INFO - Job DataModelSparkJob failed 
+2016-12-03 17:45:04,997 - Job-Logs - INFO - Job DataModelSparkJob failed 
+2016-12-03 17:45:04,997 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 17:45:04,997 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 17:45:04,997 - Job-Logs - INFO - Taking the backup of output directory and hadoop lsr path
+2016-12-03 17:45:18,726 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 17:45:18,726 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 17:45:18,726 - Job-Logs - INFO - Removing the job output and lsr path from hdfs
+2016-12-03 17:45:25,772 - Job-Logs - DEBUG - joining Thread-2
+2016-12-03 17:45:25,772 - Job-Logs - DEBUG - joining Thread-2
+2016-12-03 17:45:25,772 - Job-Logs - DEBUG - joining Thread-2
+2016-12-03 17:45:26,646 - Job-Logs - INFO - Job BaseIRSFCube coordinatorid is 0000018-161203060320735-oozie-oozi-C
+2016-12-03 17:45:26,646 - Job-Logs - INFO - Job BaseIRSFCube coordinatorid is 0000018-161203060320735-oozie-oozi-C
+2016-12-03 17:45:26,646 - Job-Logs - INFO - Job BaseIRSFCube coordinatorid is 0000018-161203060320735-oozie-oozi-C
+2016-12-03 17:45:27,058 - Job-Logs - INFO - Job DnisDetectionIntermediateFeaturePreparation coordinatorid is 0000019-161203060320735-oozie-oozi-C
+2016-12-03 17:45:27,058 - Job-Logs - INFO - Job DnisDetectionIntermediateFeaturePreparation coordinatorid is 0000019-161203060320735-oozie-oozi-C
+2016-12-03 17:45:27,058 - Job-Logs - INFO - Job DnisDetectionIntermediateFeaturePreparation coordinatorid is 0000019-161203060320735-oozie-oozi-C
+2016-12-03 17:45:27,111 - Job-Logs - INFO - Job BaseIRSFCube coordinatorid is 0000020-161203060320735-oozie-oozi-C
+2016-12-03 17:45:27,111 - Job-Logs - INFO - Job BaseIRSFCube coordinatorid is 0000020-161203060320735-oozie-oozi-C
+2016-12-03 17:45:27,111 - Job-Logs - INFO - Job BaseIRSFCube coordinatorid is 0000020-161203060320735-oozie-oozi-C
+2016-12-03 17:45:27,117 - Job-Logs - INFO - Job HomePolicyIPRN_ILD coordinatorid is 0000021-161203060320735-oozie-oozi-C
+2016-12-03 17:45:27,117 - Job-Logs - INFO - Job HomePolicyIPRN_ILD coordinatorid is 0000021-161203060320735-oozie-oozi-C
+2016-12-03 17:45:27,117 - Job-Logs - INFO - Job HomePolicyIPRN_ILD coordinatorid is 0000021-161203060320735-oozie-oozi-C
+2016-12-03 17:45:27,150 - Job-Logs - INFO - Job MachineIdentificationIntermediateFeaturePreparationJob coordinatorid is 0000022-161203060320735-oozie-oozi-C
+2016-12-03 17:45:27,150 - Job-Logs - INFO - Job MachineIdentificationIntermediateFeaturePreparationJob coordinatorid is 0000022-161203060320735-oozie-oozi-C
+2016-12-03 17:45:27,150 - Job-Logs - INFO - Job MachineIdentificationIntermediateFeaturePreparationJob coordinatorid is 0000022-161203060320735-oozie-oozi-C
+2016-12-03 17:45:27,213 - Job-Logs - INFO - Job HomePolicyIPRN_DLD coordinatorid is 0000023-161203060320735-oozie-oozi-C
+2016-12-03 17:45:27,213 - Job-Logs - INFO - Job HomePolicyIPRN_DLD coordinatorid is 0000023-161203060320735-oozie-oozi-C
+2016-12-03 17:45:27,213 - Job-Logs - INFO - Job HomePolicyIPRN_DLD coordinatorid is 0000023-161203060320735-oozie-oozi-C
