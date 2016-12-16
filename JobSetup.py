@@ -33,9 +33,7 @@ class JobSetup:
             commands.getoutput('hadoop dfs -mkdir -p %s'%(self.backupdir.strip()))
             commands.getoutput('hadoop dfs -cp  output/* %s'%(self.backupdir.strip()))
             commands.getoutput('hadoop dfs -cp  data/DataModels %s'%(self.backupdir.strip()))
-            self.Config.logger.info('Removing the job output and lsr path from hdfs')
-            commands.getoutput('hadoop dfs -rmr output/*')
-            commands.getoutput('hadoop dfs -rmr data/*')
+            
         
     def set_jobtime(self,job_name):
         temp_list=self.Config.get_jobconfig(job_name).split(',')
